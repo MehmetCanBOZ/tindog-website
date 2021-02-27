@@ -19,17 +19,17 @@ https://mehmetcanboz.github.io/tindog-website/
 <br>
 
 
-<img src="images/tindog1.JPG" alt="Girl in a jacket" width="800" height="300">
+<img src="images/tindog1.JPG" alt="Girl in a jacket" width="800" height="500">
 <br>
-<img src="images/tindog2.JPG" alt="Girl in a jacket" width="800" height="300">
+<img src="images/tindog2.JPG" alt="Girl in a jacket" width="800" height="500">
 <br>
-<img src="images/tindog3.JPG" alt="Girl in a jacket" width="800" height="300">
+<img src="images/tindog3.JPG" alt="Girl in a jacket" width="800" height="500">
 <br>
 <br>
 
 <p float="left">
-  <img src="images/tindog4.JPG" alt="Girl in a jacket" width="300" height="300">
-  <img src="images/tindog5.JPG" alt="Girl in a jacket" width="300" height="300">
+  <img src="images/tindog4.JPG" alt="Girl in a jacket" width="300" height="500">
+  <img src="images/tindog5.JPG" alt="Girl in a jacket" width="300" height="500">
 </p>
 
 
